@@ -16,10 +16,7 @@ UpgradeLog.XML
 *.a  
 *.aps  
 *.clw  
-*.dll  
-*.dsp  
-*.dsw  
-*.exe  
+*.dll   
 *.exp  
 *.lastbuildstate  
 *.lib  
