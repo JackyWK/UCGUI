@@ -35,7 +35,8 @@ UpgradeLog.XML
 *.so  
 *.suo  
 *.user  
-*.zip  
+*.zip 
+*.opt 
   
 #--------------------------  
 # ignored dirs for vc++  
