@@ -37,6 +37,7 @@ UpgradeLog.XML
 *.user  
 *.zip 
 *.opt 
+*.plg
   
 #--------------------------  
 # ignored dirs for vc++  
